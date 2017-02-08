@@ -1,2 +1,2 @@
 # apkdatabase
-Here are many great games for android that are 100% free, even the paid apps on the Google Play Store!
+Here are many great games for android that are 100% free, even the paid apps on the Google Play Store! Some apk's will install Aptoide (a free alternative app store with 1,000's of apps and games) and once installed, it will download the app or game you wanted. When installing an apk for the first time, you will see a popup saying "install blocked". To fix this, go to settings and scroll down to "unknown sources" and enable it. Now you can install the apk files and not see that message anymore.
